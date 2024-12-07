@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.ea928825.chunk.css",
+    "main.js": "/weather-app/static/js/main.c142bbf3.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.c142bbf3.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.721937bf.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.721937bf.js.map",
+    "static/js/2.701fe897.chunk.js": "/weather-app/static/js/2.701fe897.chunk.js",
+    "static/js/2.701fe897.chunk.js.map": "/weather-app/static/js/2.701fe897.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.8435b484068568b452c9bb1df6dbe444.js": "/weather-app/precache-manifest.8435b484068568b452c9bb1df6dbe444.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.ea928825.chunk.css.map": "/weather-app/static/css/main.ea928825.chunk.css.map",
+    "static/js/2.701fe897.chunk.js.LICENSE.txt": "/weather-app/static/js/2.701fe897.chunk.js.LICENSE.txt",
+    "static/media/WeatherIcons.gif": "/weather-app/static/media/WeatherIcons.0a218296.gif",
+    "static/media/App.css": "/weather-app/static/media/city.e1698332.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.721937bf.js",
+    "static/js/2.701fe897.chunk.js",
+    "static/css/main.ea928825.chunk.css",
+    "static/js/main.c142bbf3.chunk.js"
+  ]
+}
